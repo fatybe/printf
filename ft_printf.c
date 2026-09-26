@@ -6,7 +6,7 @@
 /*   By: fbenjama <fbenjama@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/18 16:21:31 by fbenjama          #+#    #+#             */
-/*   Updated: 2024/12/18 18:02:54 by fbenjama         ###   ########.fr       */
+/*   Updated: 2024/11/24 17:49:20 by fbenjama         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,3 +39,9 @@ int	ft_printf(const char *forma, ...)
 	va_end(args);
 	return (count);
 }
+// int main()
+// {
+
+// 	ft_printf("%");
+// 	return (0);
+// }
